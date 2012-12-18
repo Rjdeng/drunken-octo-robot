@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="DragBarAttrs">
+        <attr name="textSize" format="dimension"></attr>
+        <attr name="background" format="reference|color"></attr>
+        <attr name="buttonStyle" format="reference"></attr>
+        <attr name="textColorList" format="reference"></attr>
+    </declare-styleable>
+
+</resources>
